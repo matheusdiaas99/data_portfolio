@@ -1,7 +1,7 @@
 # data_portfolio
 My favorite data projects using Pandas, Numpy, Matplotlib, Seaborn, Plotly Express and other libaries: 
 
-**Project 1. Nobel price winners analysis over time:
+**Project 1. Nobel Prize Winners Analysis Over Time:
 **  Average Age of Nobel Prize Winners;
   Top Five Countries with the Most Nobel Prizes;
   Organization with the Most Nobel Prizes;
@@ -11,4 +11,4 @@ My favorite data projects using Pandas, Numpy, Matplotlib, Seaborn, Plotly Expre
   Trend of Nobel Prizes Over Time;
   Trend of Shared Nobel Prizes Over Time;
   Number of Nobel Prizes by Country;
-  Distribution of Prizes by Country and Category;
+  Distribution of Prizes by Country and Category.
