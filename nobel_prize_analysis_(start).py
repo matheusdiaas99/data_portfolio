@@ -669,27 +669,6 @@ sns.regplot(data=df_data, x="year", y="age", lowess=True)
 
 df_data.sort_values("age")
 
-"""### Winning Age Across the Nobel Prize Categories
-
-How does the age of laureates vary by category?
-
-* Use Seaborn's [`.boxplot()`](https://seaborn.pydata.org/generated/seaborn.boxplot.html?highlight=boxplot#seaborn.boxplot) to show how the mean, quartiles, max, and minimum values vary across categories. Which category has the longest "whiskers"?
-* In which prize category are the average winners the oldest?
-* In which prize category are the average winners the youngest?
-"""
-
-
-
-
-
-"""**Challenge**
-* Now use Seaborn's [`.lmplot()`](https://seaborn.pydata.org/generated/seaborn.lmplot.html?highlight=lmplot#seaborn.lmplot) and the `row` parameter to create 6 separate charts for each prize category. Again set `lowess` to `True`.
-* What are the winning age trends in each category?
-* Which category has the age trending up and which category has the age trending down?
-* Is this `.lmplot()` telling a different story from the `.boxplot()`?
-* Create another chart with Seaborn. This time use `.lmplot()` to put all 6 categories on the same chart using the `hue` parameter.
-
-"""
 
 
 
