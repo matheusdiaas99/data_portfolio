@@ -12,3 +12,5 @@ My favorite data projects using Pandas, Numpy, Matplotlib, Seaborn, Plotly Expre
   Trend of Shared Nobel Prizes Over Time;
   Number of Nobel Prizes by Country;
   Distribution of Prizes by Country and Category.
+
+**Project 2. Real Estate Regression Analysis of Boston House Prices
