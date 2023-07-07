@@ -14,8 +14,8 @@ My favorite data projects using Pandas, Numpy, Matplotlib, Seaborn, Plotly Expre
   Distribution of Prizes by Country and Category.
 
 **Project 2. Real Estate Regression Analysis of Boston House Prices
-Preliminary Data Exploration
-Data Cleaning 
+* Preliminary Data Exploration
+* Data Cleaning 
 Descriptive Statistics
 Data Visualization
 Split Training & Test Dataset
